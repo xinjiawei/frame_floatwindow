@@ -2,9 +2,9 @@
     site_name: "如意云",
     home_url: "https:\/\/jiawei.xin",
     site_notice: {
-      is: "0",
+      is: "1",
       color: "#2196f3",
-      html: '<div class="notify-content"><h3>网站公告<\/h3><div><p style="text-align: center">0000<\/p><\/div><\/div>',
+      html: '<div class="notify-content"><h3>网站公告<\/h3><div><p style="text-align: center">cookies缓存的公告，点击一次之后不再弹出<\/p><\/div><\/div>',
     },
   };
   var frpostpro_settings = {
