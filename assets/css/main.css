@@ -1,0 +1,48 @@
+@keyframes slidein-main {
+    from {
+      bottom: -160px;
+    }
+    to {
+      bottom: 0;
+    }
+  }
+  @media only screen and (min-width: 767px) {
+    .frpostpro-wrap {
+      right: 15px;
+    }
+    @keyframes slidein-main {
+      from {
+        bottom: -160px;
+      }
+      to {
+        bottom: 15px;
+      }
+    }
+  }
+  .frpostpro-title {
+    line-height: 15px;
+    max-height: 46px;
+  }
+  .frpostpro-wrap {
+    background-color: #f7fbff;
+    z-index: 9999;
+    color: #0775e2;
+    font-size: 14px;
+    border: none;
+    border-top: solid 1px #e6e6e6;
+  }
+  @media only screen and (min-width: 767px) {
+    .frpostpro-wrap {
+      border-top: none;
+      border: solid 1px #e6e6e6;
+    }
+  }
+  .frpostpro-text {
+    background-color: #f7fbff;
+  }
+  .frpostpro-readmore {
+    display: block;
+    margin-top: 2px;
+    font-size: 12px;
+    line-height: 12px;
+  }
