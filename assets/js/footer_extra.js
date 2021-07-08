@@ -1,6 +1,6 @@
   var caozhuti = {
     site_name: "如意云",
-    home_url: "https:\/\/jiawei.xin",
+    home_url: "https://jiawei.xin",
     site_notice: {
       is: "1",
       color: "#2196f3",

@@ -1,9 +1,9 @@
 @keyframes slidein-main {
     from {
-      bottom: -160px;
+      top: -160px;
     }
     to {
-      bottom: 0;
+      top: 0;
     }
   }
   @media only screen and (min-width: 767px) {
@@ -12,10 +12,10 @@
     }
     @keyframes slidein-main {
       from {
-        bottom: -160px;
+        top: -160px;
       }
       to {
-        bottom: 15px;
+        top: 15px;
       }
     }
   }
@@ -26,7 +26,7 @@
   .frpostpro-wrap {
     background-color: #f7fbff;
     z-index: 9999;
-    color: #0775e2;
+    color: #667686;
     font-size: 14px;
     border: none;
     border-top: solid 1px #e6e6e6;

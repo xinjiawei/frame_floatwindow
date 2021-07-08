@@ -1,4 +1,4 @@
-<!--//公共脚本文件 main.js
+//公共脚本文件 main.js
 function addEvent(obj, evtType, func, cap) {
 	cap = cap || false;
 	if (obj.addEventListener) {
