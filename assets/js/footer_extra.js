@@ -8,10 +8,10 @@
     },
   };
   var frpostpro_settings = {
-    "frpostpro-slide-duration": "6",
+    "frpostpro-slide-duration": "6",//切换的时间。
     "frpostpro-scroll-trigger": "0",
     "frpostpro-read-more": "进来坐，别客气！",
-    "frpostpro-close-time": "3",
+    "frpostpro-close-time": "3",//cookies的有效期，之后会继续弹窗，单位分钟
   };
   var frpostpro_js = [
     {
